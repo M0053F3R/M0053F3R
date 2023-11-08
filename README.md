@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M0053F3R
-- 👀 I’m interested in LEarning how to get myself paid better
+- 👀 I’m interested in learning how to get myself paid better
 - 🌱 I’m currently learning Git and GO!
 - 💞️ I’m looking to collaborate on anything that will get me paid
 - 📫 How to reach me moosefermorningstar@gmail.com
